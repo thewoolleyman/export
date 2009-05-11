@@ -15,7 +15,7 @@ begin
     s.rubyforge_project = "export"
     s.authors = ["Chad Woolley"]
     s.has_rdoc = false
-    s.files = FileList["CHANGELOG.rdoc","lib/rubygems/commands/export_command.rb","Rakefile","README.markdown","rubygems_plugin.rb"]
+    s.files = FileList["CHANGELOG.rdoc","lib/rubygems/commands/export_command.rb","Rakefile","README.markdown","rubygems_plugin.rb","test/export_command_test.rb","VERSION"]
     
     # Testings
     s.test_files = FileList["test/**/*_test.rb"]
