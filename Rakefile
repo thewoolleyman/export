@@ -11,7 +11,7 @@ begin
       Export installed gems to a YAML file.
     DESC
     s.email = "thewoolleyman@gmail.com"
-    s.homepage = "http://github.com/thewoolleyman/export"
+    s.homepage = "http://export.rubyforge.org"
     s.rubyforge_project = "export"
     s.authors = ["Chad Woolley"]
     s.has_rdoc = false

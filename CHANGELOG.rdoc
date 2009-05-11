@@ -1,7 +1,9 @@
 == TODO
 
+* Use real (to-be-added) GemInstaller API instead of hack shelling out to 'geminstaller --print-rogue-gems
+* Add some real tests
+
+== 0.1.0, released 2009-05-11
+
+* Initial spike release
 * export command creates gems.yml
-
-== x.y.z, released yyyy-mm-yy
-
-* ...
