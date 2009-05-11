@@ -17,10 +17,12 @@ Gem::Specification.new do |s|
     "CHANGELOG.rdoc",
      "README.markdown",
      "Rakefile",
+     "VERSION",
      "lib/rubygems/commands/export_command.rb",
-     "rubygems_plugin.rb"
+     "rubygems_plugin.rb",
+     "test/export_command_test.rb"
   ]
-  s.homepage = %q{http://github.com/thewoolleyman/export}
+  s.homepage = %q{http://export.rubyforge.org}
   s.rdoc_options = ["--charset=UTF-8"]
   s.require_paths = ["lib"]
   s.rubyforge_project = %q{export}
